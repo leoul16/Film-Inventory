@@ -1,1 +1,2 @@
 # Film-Inventory
+This project was all about creating a viable inventory for a Film Database while broadening our understanding of the Base Class-Sublcass relationship. Each film has certain metadata (i.e. Film Title, Film ID, Director, etc.) that must be accounted for. Films can also be classified as Educational or Entertainment, which in turn adds more metadata that much be reported. This program is run through the command line.
